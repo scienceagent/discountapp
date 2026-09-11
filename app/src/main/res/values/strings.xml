@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculator Reducere</string>
+    <string name="lab_title">Laborator 1</string>
+    <string name="lab_subtitle">Introducere în programarea cross platform</string>
+    <string name="lab_variant">Varianta 1. Calculator de reducere</string>
+    <string name="input_initial_price">Preț inițial</string>
+    <string name="input_discount_percent">Procentul reducerii (%)</string>
+    <string name="btn_calculate">Calculează</string>
+    <string name="btn_reset">Resetează</string>
+    <string name="output_discount_value">Valoarea reducerii</string>
+    <string name="output_final_price">Prețul final</string>
+    <string name="select_quick_discount">Selectează reducere rapidă</string>
+    <string name="category_label">Categorie produs</string>
+    <string name="currency_label">Monedă</string>
+    <string name="summary_title">Rezultat calcul</string>
+    <string name="error_invalid_price">Introduceți un preț valid (mai mare ca 0)</string>
+    <string name="error_invalid_discount">Procentul trebuie să fie între 0% și 100%</string>
+</resources>

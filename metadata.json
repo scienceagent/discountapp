@@ -1,0 +1,6 @@
+{
+  "name": "Calculator Reducere",
+  "description": "Aplicație mobilă Laborator 1 - Calcularea prețului final cu discount utilizând Google Material Design 3, controale interactive și calcul instantaneu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
